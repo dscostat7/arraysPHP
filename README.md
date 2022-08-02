@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/PHP-purple">
-  <--!<img alt="License" src="https://img.shields.io/badge/PHPUnit-red">-->
+  <!--<img alt="License" src="https://img.shields.io/badge/PHPUnit-red">-->
 
   <a href="https://beacons.ai/dscostat7/" target="_blank">
     <img alt="by Diego Souza" src="https://img.shields.io/badge/Made%20by-Diego%20Souza-blue">
