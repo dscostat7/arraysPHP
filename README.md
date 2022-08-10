@@ -1,5 +1,5 @@
 <h1 align="center">
-	PHP, more about arrays
+	PHP, more arrays
 </h1>
 
 <p align="center">Arrays in PHP</p>
