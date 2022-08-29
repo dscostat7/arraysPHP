@@ -4,6 +4,7 @@ $array = [
     0 => 'um',
     1 => 'dois',
     3 => 'tres',
+    4 => 'Quatro',
 ];
 
 foreach ($array as $numeral => $nomeNumero) {
